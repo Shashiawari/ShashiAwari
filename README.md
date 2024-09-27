@@ -1,6 +1,3 @@
-Here’s a sample README template for your GitHub profile. It introduces you, highlights your skills, projects, and provides ways for others to connect with you.
-
----
 
 # Hi there, I'm Awari Shashi Preetham! 👋
 
@@ -85,7 +82,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in buil
 
 ## 🌟 What I’m Working On
 
-Currently, I'm working on several exciting projects that include real-time messaging apps, personal website creation platforms, and enhancing user experiences through modern web technologies. For more details, check out my [portfolio](https://shashiawari.onrender.com/)!
+Currently, I'm working on several exciting projects that include real-time messaging apps, personal website creation platforms, and enhancing user experiences through modern web technologies. For more details, check out my [portfolio](https://shashipreetham.netlify.app/)!
 
 ## 📚 Certifications & Projects
 
@@ -98,16 +95,11 @@ Explore my projects and code repositories to see more of what I’ve been workin
 ## 📫 How to Reach Me
 
 - **Email**: [shashiawaripreetham@gmail.com](mailto:shashiawaripreetham@gmail.com)
-- **Portfolio**: [Visit here](https://shashiawari.onrender.com/)
+- **Portfolio**: [Visit here](https://shashipreetham.netlify.app/)
 - **LinkedIn**: [Connect with me](https://linkedin.com/in/awari-shashi-preetham)
   
 Feel free to reach out for collaborations, job opportunities, or just to chat about tech!
 
 ---
-
-This README gives an overview of your profile, highlights your current projects, skills, and encourages others to reach out or collaborate! You can modify or add any other sections as needed.
-
-
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashiawari&show_icons=true&locale=en&layout=compact&bg_color=grey" alt="shashiawari" /></p>
