@@ -96,7 +96,7 @@ Explore my projects and code repositories to see more of what I’ve been workin
 
 - **Email**: [shashiawaripreetham@gmail.com](mailto:shashiawaripreetham@gmail.com)
 - **Portfolio**: [Visit here](https://shashipreetham.netlify.app/)
-- **LinkedIn**: [Connect with me](www.linkedin.com/in/shashipreethamawari)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/shashipreethamawari)
   
 Feel free to reach out for collaborations, job opportunities, or just to chat about tech!
 
