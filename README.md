@@ -1,7 +1,7 @@
 <h1 align="center">Awari Shashi Preetham</h1>
 
 <p align="center">
-  <strong>Full-Stack Development · Applied Machine Learning · AI Applications</strong><br>
+  <strong>Full-Stack Development | Applied Machine Learning |AI Applications</strong><br>
   M.Sc. Applied Computer Science student at Hochschule Schmalkalden, Germany
 </p>
 
@@ -28,7 +28,13 @@ I enjoy understanding a problem, breaking it into smaller parts and building a s
 | Programming | Python, JavaScript, SQL, C, Java |
 | Frontend | React, Next.js, HTML, CSS, Bootstrap, Framer Motion, GSAP |
 | Backend | FastAPI, Node.js, Express, REST APIs, Socket.IO |
-| Machine learning | PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, Hugging Face Transformers |
+| Machine learning frameworks | PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, Hugging Face Transformers |
+| Machine learning methods | Supervised learning, classification, logistic regression, random forests, gradient boosting, feature scaling, class imbalance handling |
+| Deep learning | Neural networks, convolutional neural networks (CNNs), transformer architectures, transfer learning, MobileNetV2, model fine-tuning, data augmentation |
+| Large language models and NLP | LLM integration, BERT, text classification, sentiment analysis, sarcasm detection, tokenization, text embeddings, summarization |
+| Generative AI and retrieval | Retrieval-augmented generation (RAG), semantic search, hybrid semantic and lexical retrieval, document chunking, context assembly, conversational AI, multi-provider model integration |
+| Model evaluation and explainability | Stratified train/test splits, validation, precision, recall, F1-score, ROC-AUC, confusion matrices, SHAP feature importance |
+| Training and inference | Early stopping, learning-rate scheduling, class weighting, ONNX export, browser-based inference, model integration through APIs |
 | Data and retrieval | pandas, NumPy, PostgreSQL, MongoDB, Supabase, ChromaDB |
 | Development tools | Git, GitHub, Jupyter Notebook, Google Colab |
 
