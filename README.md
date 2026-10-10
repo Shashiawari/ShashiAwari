@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://shashipreetham.netlify.app/">Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/shashipreethamawari">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://shashipreetham.netlify.app/">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/shashipreethamawari">LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:shashiawaripreetham@gmail.com">Email</a>
 </p>
 
